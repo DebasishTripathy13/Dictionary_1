@@ -9,7 +9,7 @@ It appears that the project you're trying to run uses Vite as its build tool and
    If you haven't already, clone the repository as mentioned earlier:
 
    ```sh
-   git clone https://github.com/developerrahulofficial/dictionary-app.git
+   git clone https://github.com/DebasishTripathy13/Dictionary_1.git
    ```
 
 2. **Navigate to the Project Directory:**
